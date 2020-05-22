@@ -6,7 +6,6 @@ import SplashScreen from "../features/SplashScreen";
 import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 import Settings49265Navigator from '../features/Settings49265/navigator';
-import UserProfile49258Navigator from '../features/UserProfile49258/navigator';
 import Settings49257Navigator from '../features/Settings49257/navigator';
 import ArticleList49235Navigator from '../features/ArticleList49235/navigator';
 import ArticleList49234Navigator from '../features/ArticleList49234/navigator';
@@ -28,7 +27,6 @@ const AppNavigator = {
     },
     //@BlueprintNavigationInsertion
 Settings49265: { screen: Settings49265Navigator },
-UserProfile49258: { screen: UserProfile49258Navigator },
 Settings49257: { screen: Settings49257Navigator },
 ArticleList49235: { screen: ArticleList49235Navigator },
 ArticleList49234: { screen: ArticleList49234Navigator },
