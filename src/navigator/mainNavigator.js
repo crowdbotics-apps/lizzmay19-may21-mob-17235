@@ -8,7 +8,6 @@ import SideMenu from './sideMenu';
 import Settings49265Navigator from '../features/Settings49265/navigator';
 import UserProfile49258Navigator from '../features/UserProfile49258/navigator';
 import Settings49257Navigator from '../features/Settings49257/navigator';
-import SignIn249253Navigator from '../features/SignIn249253/navigator';
 import ArticleList49235Navigator from '../features/ArticleList49235/navigator';
 import ArticleList49234Navigator from '../features/ArticleList49234/navigator';
 import ArticleList49233Navigator from '../features/ArticleList49233/navigator';
@@ -31,7 +30,6 @@ const AppNavigator = {
 Settings49265: { screen: Settings49265Navigator },
 UserProfile49258: { screen: UserProfile49258Navigator },
 Settings49257: { screen: Settings49257Navigator },
-SignIn249253: { screen: SignIn249253Navigator },
 ArticleList49235: { screen: ArticleList49235Navigator },
 ArticleList49234: { screen: ArticleList49234Navigator },
 ArticleList49233: { screen: ArticleList49233Navigator },
